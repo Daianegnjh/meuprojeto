@@ -10,7 +10,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        background-color:black white blue;
+        background-image: linear-gradient(-45deg, black, blue, #f10990, #14f5db );
     }
 
 .container{
