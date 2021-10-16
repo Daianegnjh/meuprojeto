@@ -1,0 +1,39 @@
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+
+    body{
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color:black;
+    }
+
+.container{
+    background-color: blanchedalmond;
+    height: 200px;
+    width: 600px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 30px;
+}
+h1{
+   align-items: center;
+   color: rgb(121, 2, 77);
+  
+}
+
+h2{
+ margin: 5%;
+ color: mediumvioletred;
+ align-items: center;
+
+}
+
+
