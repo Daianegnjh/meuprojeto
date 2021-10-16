@@ -14,7 +14,7 @@
     }
 
 .container{
-    background-color: blanchedalmond;
+    background-color: rgb(235, 235, 235);
     height: 200px;
     width: 600px;
     display: flex;
@@ -25,13 +25,13 @@
 }
 h1{
    align-items: center;
-   color: rgb(121, 2, 77);
+   color: rgb(23, 190, 182);
   
 }
 
 h2{
  margin: 5%;
- color: mediumvioletred;
+ color: rgb(54, 235, 226);
  align-items: center;
 
 }
